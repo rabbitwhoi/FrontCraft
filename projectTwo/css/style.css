@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.body {
+    width: max-content;
+    padding: 10px 20px;
+    height: 200px;
+    background-color: antiquewhite;
+}
+.boxp {
+    width: max-content;
+    height: max-content;
+    background-color: rgb(92, 179, 255);
+    padding: 10px 20px;
+    border: 1.5px solid black;
+    border-radius: 10px 10px 10px 10px;
+}
+.btn {
+    width: max-content;
+    height: max-content;
+    padding: 5px 10px;
+    margin-top: 30px;
+    background-color: rgb(255, 0, 179);
+}
